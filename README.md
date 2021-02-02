@@ -1,5 +1,5 @@
 # Hijridatepicker
-
+This project is an angular element component for hijridate that cen be used at any project, it has two languages (arabic and english), you can also choose to diplay the textbox for diplay date or not .
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
 
 ## Development server
